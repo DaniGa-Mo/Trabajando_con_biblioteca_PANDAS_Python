@@ -11,3 +11,16 @@
 <li>:heavy_check_mark: Comprobar los tipos de datos de cada columna de un DataFrame.</li>
 <li>:heavy_check_mark: Seleccionar una o varias columnas.</li>
 
+
+#  :notebook: II. Análisis exploratorio de datos
+## :pencil2: Lo que aprendimos:
+<li>:heavy_check_mark: Identificar qué hacer durante un proceso de análisis exploratorio.</li>
+<li>:heavy_check_mark: Calcular el promedio de valores de un DataFrame.</li>
+<li>:heavy_check_mark: Agrupar los datos según una columna específica utilizando groupby.</li>
+<li>:heavy_check_mark: Realizar selecciones utilizando el método query.</li>
+<li>:heavy_check_mark: Transformar Series en DataFrames.</li>
+<li>:heavy_check_mark: Graficar barras verticales y horizontales.</li>
+<li>:heavy_check_mark: Visualizar valores únicos con unique.</li>
+<li>:heavy_check_mark: Utilizar value_counts para contar valores únicos y calcular porcentajes.</li>
+<li>:heavy_check_mark: Cambiar nombres de columnas.</li>
+
