@@ -24,3 +24,13 @@
 <li>:heavy_check_mark: Utilizar value_counts para contar valores únicos y calcular porcentajes.</li>
 <li>:heavy_check_mark: Cambiar nombres de columnas.</li>
 
+
+#  :notebook: III. Tratamiento y filtrado de datos
+## :pencil2: Lo que aprendimos:
+<li>:heavy_check_mark: Verificar si una base de datos tiene datos nulos.</li>
+<li>:heavy_check_mark: Tratar los datos nulos.</li>
+<li>:heavy_check_mark: Eliminar filas y columnas de un DataFrame.</li>
+<li>:heavy_check_mark: Realizar diferentes selecciones en una base de datos.</li>
+<li>:heavy_check_mark: Guardar datos en formato csv.</li>
+<li>:heavy_check_mark: Utilizar el método replace para reemplazar valores en una base de datos.</li>
+
