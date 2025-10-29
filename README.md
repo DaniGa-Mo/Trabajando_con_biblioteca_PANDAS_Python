@@ -34,3 +34,13 @@
 <li>:heavy_check_mark: Guardar datos en formato csv.</li>
 <li>:heavy_check_mark: Utilizar el método replace para reemplazar valores en una base de datos.</li>
 
+
+#  :notebook: IV. Manipulación de datos
+## :pencil2: Lo que aprendimos:
+<li>:heavy_check_mark: Generar columnas numéricas.</li>
+<li>:heavy_check_mark: Insertar columnas categóricas.</li>
+<li>:heavy_check_mark: Definir columnas binarias.</li>
+<li>:heavy_check_mark: Realizar operaciones entre columnas.</li>
+<li>:heavy_check_mark: Utilizar el método apply.</li>
+<li>:heavy_check_mark: Crear funciones lambda.</li>
+
